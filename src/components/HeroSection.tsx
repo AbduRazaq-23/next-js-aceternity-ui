@@ -15,9 +15,9 @@ const HeroSection = () => {
           Master the art of Music
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
-          tempora cum perferendis consequatur modi officia cupiditate corrupti
-          inventore nisi voluptatum?
+          A vibrant music website offering a diverse collection of tracks,
+          albums, and playlists to explore. Connect with artists, discover new
+          genres, and enjoy seamless streaming experiences.
         </p>
         <div className="p-4">
           <Link href={"/courses"}>
