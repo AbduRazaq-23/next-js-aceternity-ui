@@ -1,0 +1,36 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Mastery",
+      "description": "Learn the fundamentals of playing the guitar, including chords, scales, and strumming techniques.",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "description": "An introductory course to piano, covering basic notes, finger placement, and simple melodies.",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "image": "https://images.unsplash.com/photo-1497032205916-ac775f0649ae"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Violin Techniques",
+      "description": "Refine your violin skills with advanced bowing, finger positioning, and orchestral techniques.",
+      "duration": "10 weeks",
+      "level": "Advanced",
+      "image": "https://images.unsplash.com/photo-1471478331149-c72f17e33c73?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 4,
+      "title": "Singing and Vocal Training",
+      "description": "Improve your vocal range, pitch control, and breathing techniques with expert guidance.",
+      "duration": "4 weeks",
+      "level": "Intermediate",
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG11c2ljfGVufDB8fDB8fHww"
+    }
+  ]
+}
