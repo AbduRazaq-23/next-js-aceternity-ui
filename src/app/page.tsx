@@ -1,5 +1,6 @@
 import AboutUs from "@/components/AboutUs";
 import FeaturedCourses from "@/components/FeaturedCourses";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
       <HeroSection />
       <FeaturedCourses />
       <AboutUs />
+      <Footer />
     </div>
   );
 }
